@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 팀 이름
 FOTD(Flowers Of The Day)
 
