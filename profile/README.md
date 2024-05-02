@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 팀 이름
+FOTD(Flowers Of The Day)
+
+## 팀 리더
+박시원
+
+## 타겟 사용자
+꽃 구매 예정자
+
 <!--
 
 **Here are some ideas to get you started:**
