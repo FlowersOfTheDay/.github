@@ -7,6 +7,23 @@ FOTD(Flowers Of The Day)
 ## 타겟 사용자
 꽃 구매 예정자
 
+## mid-term-check
+~5/17
+장서연
+-기획안 작성
+-ui 디자인 
+-데이터 set 구하기
+
+박시원
+-데이터 set 정리
+-input data 설정
+
+서은원
+-프론트엔드 어느정도 구현
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
