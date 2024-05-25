@@ -33,14 +33,14 @@ FOTD(Flowers Of The Day)
 
 ### 역할
 
-#### 장서연
+#### 장서연  [Github](https://github.com/Jangseo5160)
 - 기획안 작성
 - 프롬프트 엔지니어링
 
-#### 박시원
+#### 박시원 [Github](https://github.com/siwonpada)
 - Backend 구성
 - 깃허브 설정
 - 인프라 구성
 
-#### 서은원
+#### 서은원 [Github](https://github.com/seunwon)
 - 프론트엔드 구현
