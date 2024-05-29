@@ -51,6 +51,22 @@ FOTD(Flowers Of The Day)
 
 streamlit으로 구성된 프론트엔드를 구성하였다. 
 
-빠른 배포를 위하여, github registry를 사용, github action으로 도커 빌드를 자동화하였습니다.
+배포를 위하여, github registry를 사용, github action으로 도커 빌드를 자동화하였습니다. (현재 org의 package에서 docker image를 확인하실 수 있습니다.)
+
+
+## Backend
+
+http 통신을 위하여 fastapi 라이브러리를, LLM을 사용하기 위해, langchain을, 더해서 database를 사용하기 위해서, prisma python을 사용하였습니다.  
+
+배포를 위하여, github registry를 사용, github action으로 도커 빌드를 자동화하였습니다. (현재 org의 package에서 docker image를 확인하실 수 있습니다.)
+
+## AI (LLM)
+
+
+## INFRA
+
+GIST moblieX cluster에 배포를 진행하였습니다.
+테스트를 위하여 infra repository의 yaml 파일을 사용하였으며, 한번에 배포를 하기 위해서 helm-chart repository의 helm chart를 이용해서 배포를 진행하였습니다. 
+
 
 
