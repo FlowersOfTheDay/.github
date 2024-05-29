@@ -45,3 +45,12 @@ FOTD(Flowers Of The Day)
 - 기획안 작성
 - 프롬프트 엔지니어링
 
+## Result
+
+### Frontend
+
+streamlit으로 구성된 프론트엔드를 구성하였다. 
+
+빠른 배포를 위하여, github registry를 사용, github action으로 도커 빌드를 자동화하였습니다.
+
+
