@@ -51,6 +51,7 @@ FOTD(Flowers Of The Day)
 ### Frontend
 
 streamlit으로 구성된 프론트엔드를 구성하였다. 
+웹 디자인을 위해 HTML을, 백엔드와의 연결을 위해 python dotenv를 사용하였습니다.
 
 배포를 위하여, github registry를 사용, github action으로 도커 빌드를 자동화하였습니다. (현재 org의 package에서 docker image를 확인하실 수 있습니다.)
 
